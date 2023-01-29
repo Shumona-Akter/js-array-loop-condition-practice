@@ -114,3 +114,9 @@ while(i <= 98){
     console.log(i);
     i++;
 }
+// আসকে আমার মন ভালো নেই এই কথা ৩৯ বার আউটপুট হিসেবে দেখাও। 
+
+for (var i = 0; i <= 39 ; i++){
+    console.log("aj k amar mon valo nei");
+    console.log(i)
+}
